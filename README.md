@@ -41,25 +41,25 @@ Thyroid Patient Dataset - Imam Reza Hospital, Larestan
 Overview
 This dataset contains medical records of thyroid patients who visited Imam Reza Hospital in Larestan. The dataset includes 400 samples, where 300 represent patients diagnosed with thyroid disease, and 100 represent healthy individuals. The data can be used for classification tasks in medical diagnosis and machine learning research.
 Dataset Details
-1.	Total Samples: 400
-2.	Thyroid Patients: 300 (labeled as 1)
-3.	Healthy Individuals: 100 (labeled as 0)
-4.	Source: Imam Reza Hospital, Larestan
-5.	Purpose: Thyroid disease classification and prediction
+•	Total Samples: 400
+•	Thyroid Patients: 300 (labeled as 1)
+•	Healthy Individuals: 100 (labeled as 0)
+•	Source: Imam Reza Hospital, Larestan
+•	Purpose: Thyroid disease classification and prediction
 Ethical Considerations
 This dataset has been prepared with full adherence to ethical standards. No personally identifiable information (PII) of patients is included, ensuring complete privacy and confidentiality of individuals.
 Features
 The dataset contains multiple features related to thyroid function, including:
-1.	FT4
-2.	T3
-3.	T4
-4.	TSH
-5.	Label: 0 indicates a healthy individual, while 1 indicates a thyroid patient.
+•	FT4
+•	T3
+•	T4
+•	TSH
+•	Label: 0 indicates a healthy individual, while 1 indicates a thyroid patient.
 Usage
 This dataset is suitable for:
-1.	Machine learning model training for thyroid disease detection
-2.	Medical research on thyroid disorders
-3.	Feature selection and optimization in clinical diagnosis
+•	Machine learning model training for thyroid disease detection
+•	Medical research on thyroid disorders
+•	Feature selection and optimization in clinical diagnosis
 License
 This dataset is provided for academic and research purposes. Proper citation is required when using it in any publication.
 Citation
@@ -67,5 +67,3 @@ If you use this dataset, please cite:
 Mohammadjavad Hosseinpoor, Thyroid Patient Dataset - Imam Reza Hospital, Larestan, 2022.
 Contact
 For more details or inquiries, contact Mohammadjavad Hosseinpoor at hosseinpoor.mohammadjavad@gmail.com.
-
-
